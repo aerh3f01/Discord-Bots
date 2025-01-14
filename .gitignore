@@ -1,0 +1,103 @@
+# General files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# TypeScript
+*.tsbuildinfo
+
+# Compiled JavaScript
+dist/
+build/
+*.js.map
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Linting and testing
+coverage/
+*.cover
+*.coverage
+*.pytest_cache/
+.nyc_output/
+.cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# MacOS files
+*.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+
+# System files
+*.lock
+*.iml
+
+# Other frameworks
+# React
+*.env.development.local
+*.env.production.local
+*.env.test.local
+
+# Angular
+.angular/
+*.angular-cli.json
+
+# Django
+*.db
+db.sqlite3
+
+# Flask
+instance/
+*.sqlite
+*.sqlite3
+
+# Flask-WTF uploads
+uploads/
+
+# Additional files
+# Add any custom patterns here, based on your project structure
