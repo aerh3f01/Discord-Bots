@@ -12,6 +12,8 @@ The repository is organized into directories for each language, with subdirector
 /python/
     /basic/
     /advanced/
+/c++/
+    /README.md # See note below
 ```
 ### Basic Templates
 
@@ -57,6 +59,16 @@ The repository is organized into directories for each language, with subdirector
 **Documentation**:
 - Python templates include fewer comments than JavaScript templates due to author familiarity with JavaScript.
 - Plans to add more detailed documentation as the project evolves.
+
+### C++
+#### To be completed
+- The C++ version can be found along side the D++ library in the [D++ repository](https://github.com/brainboxdotcc/DPP).
+- For further information, please refer to the D++ repository and their fantastic documentation.
+
+### Future Templates
+- Additional templates for languages like Java, C#, or Go.
+- Expand on advanced features like database integration, music bots, and APIs. (Will try to make these universal across all languages)
+
 ---
 ## Getting Started
 ### Prerequisites
